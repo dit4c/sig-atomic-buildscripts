@@ -1,0 +1,5 @@
+{
+  "include": "centos-atomic-base.json",
+  "repos": ["docker-experimental"],
+  "packages": ["vim-enhanced","git","docker-engine"]
+}
